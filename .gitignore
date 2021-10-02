@@ -1,0 +1,7 @@
+# ignore compiled build
+skyhd-remote
+
+# ignore config
+config.txt
+
+# ignore go.sum
